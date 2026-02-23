@@ -19,8 +19,7 @@
     // ============================================
     
     const CONFIG = {
-        // Counter API endpoint (using CountAPI.xyz — free, anonymous)
-        // Replace 'shahada-org' and 'declarations' with your own namespace/key
+        // Counter API endpoint (CountAPI.xyz — free, anonymous)
         counterAPI: 'https://api.countapi.xyz',
         counterNamespace: 'shahada-org',
         counterKey: 'declarations',

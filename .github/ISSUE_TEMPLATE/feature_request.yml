@@ -1,0 +1,31 @@
+name: Feature Request
+description: Suggest an improvement to Shahada.org
+title: "[Suggestion]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We welcome suggestions that help more people embrace Islam. Please keep ideas simple and focused.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your suggestion?
+      description: Describe the improvement you would like to see.
+      placeholder: "e.g., Add a dark mode option for nighttime reading."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would this help?
+      description: How does this improvement help people who are converting to Islam?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered (optional)
+      description: Have you thought of other ways to solve this?
+    validations:
+      required: false

@@ -1,124 +1,89 @@
-# Shahada — Become Muslim
+<p align="center">
+  <img src="public/shahada-logo-transparent-512.png" alt="Shahada.org Logo" width="120">
+</p>
 
-> A zero-cognitive-load, Wikipedia-style single-page app to help people say the Shahada and become Muslim.
+<h1 align="center">Shahada.org</h1>
 
-## 🎯 Mission
+<p align="center">
+  <strong>The world's simplest guide to embracing Islam.</strong><br>
+  Available in 40+ languages · Zero tracking · Open to contributions
+</p>
 
-Make it as simple as possible for anyone, anywhere, to take their first step into Islam.
-
-## ✨ Features
-
-- **Word-by-word audio** — Click any Arabic word to hear its pronunciation
-- **Full Shahada playback** — Listen to the complete declaration
-- **Global counter** — See how many people have declared the Shahada (anonymous, no tracking)
-- **Personal date** — Your Shahada date saved locally on your device
-- **Comprehensive FAQ** — Answers to common questions (optimized for AI search)
-- **Mobile-first** — Works perfectly on all devices
-- **Accessible** — Keyboard navigation, screen reader friendly
-- **No tracking** — Zero cookies, zero data collection
-
-## 🏗️ Tech Stack
-
-| Component | Choice | Rationale |
-|-----------|--------|-----------|
-| Framework | Pure HTML/CSS/JS | Maximum Core Web Vitals, no build step |
-| Styling | Wikipedia-like | Minimal cognitive load, high readability |
-| Counter API | CountAPI.xyz | Free, anonymous, no backend needed |
-| Storage | localStorage | Personal data stays on user's device (GDPR-friendly) |
-
-## 📁 Project Structure
-
-```
-shahada/
-├── index.html          # Main page with all content + SEO
-├── styles.css          # Wikipedia-like styling
-├── script.js           # Audio player + counter logic
-├── audio/
-│   ├── shahada.mp3     # Full Shahada audio
-│   └── shahada.ogg     # OGG fallback
-├── tasks/
-│   └── todo.md         # Project plan & progress
-└── README.md           # This file
-```
-
-## 🚀 Getting Started
-
-### Local Development
-
-```bash
-# No build step needed! Just open index.html in a browser.
-# For local server (recommended for audio):
-
-# Python 3
-python -m http.server 8000
-
-# Node.js
-npx serve
-
-# Then open http://localhost:8000
-```
-
-### Adding Audio
-
-1. Record or obtain a clear, slow Shahada recitation (~10 seconds)
-2. Save as `audio/shahada.mp3` and `audio/shahada.ogg`
-3. Adjust timestamps in `index.html` if needed (see `audio/.gitkeep` for guide)
-
-## 🌍 Multilingual Setup
-
-The page is structured for multilingual SEO with hreflang tags. To add languages:
-
-1. Create language folders: `/en/`, `/nl/`, `/fr/`, `/de/`, etc.
-2. Copy and translate `index.html` for each language
-3. Update the `hreflang` tags in each file
-4. Translate the audio or provide language-specific recordings
-
-## 📊 SEO Features
-
-- **Core Web Vitals optimized** — Inline critical CSS, minimal JavaScript
-- **Structured Data** — FAQ schema + HowTo schema for rich snippets
-- **Meta tags** — Open Graph, Twitter Cards, comprehensive meta
-- **Hreflang** — Prepared for multilingual deployment
-- **Semantic HTML** — Proper heading hierarchy, ARIA labels
-
-## 🔒 Privacy
-
-- **No cookies**
-- **No tracking pixels**
-- **No analytics**
-- **Counter is anonymous** — Only increments a number, no IP/User-Agent logged
-- **Personal date stored locally** — Never leaves user's device
-
-## 🧪 Testing Checklist
-
-- [ ] Audio plays correctly on iOS Safari
-- [ ] Audio plays correctly on Android Chrome
-- [ ] Word-by-word timestamps are accurate
-- [ ] Counter increments (check CountAPI dashboard)
-- [ ] localStorage saves date correctly
-- [ ] Keyboard navigation works
-- [ ] Screen reader announces content correctly
-- [ ] Lighthouse score > 95 for all categories
-
-## 📝 Counter API Setup
-
-The page uses [CountAPI.xyz](https://countapi.xyz/) for the global counter.
-
-Current configuration in `script.js`:
-```javascript
-counterNamespace: 'shahada-org',
-counterKey: 'declarations',
-```
-
-To use your own namespace:
-1. Replace `'shahada-org'` with your unique namespace
-2. The counter auto-creates on first hit
-
-## 🤲 License
-
-This project is dedicated to helping people embrace Islam. Use it freely.
+<p align="center">
+  <a href="https://shahada.org">shahada.org</a> · 
+  <a href="#contributing">Contribute</a> · 
+  <a href="https://github.com/islam-xyz/shahada/issues">Report an Issue</a>
+</p>
 
 ---
 
-*"Whoever guides someone to goodness will have a reward like the one who did it."* — Prophet Muhammad ﷺ (Sahih Muslim)
+## Mission
 
+Make it as simple as possible for anyone, anywhere in the world, to take their first step into Islam.
+
+Shahada.org is a free, open, multilingual resource that guides people through the Islamic declaration of faith — the Shahada. No accounts, no tracking, no barriers.
+
+## What This Website Does
+
+- **Step-by-step Shahada guide** — Clear instructions to declare the Islamic faith
+- **Audio pronunciation** — Listen to the Shahada recited correctly, word by word
+- **40+ languages** — From Arabic to Zulu, with more being added by the community
+- **Global counter** — See how many people have taken the Shahada (completely anonymous)
+- **Next steps** — Guides on Ghusl (purification) and Salah (prayer) for new Muslims
+- **Zero tracking** — No cookies, no analytics, no data collection. Your faith is between you and Allah.
+
+## Languages
+
+Shahada.org is available in the following languages:
+
+Afrikaans · Amharic · Arabic · Bengali · Bosnian · Czech · Danish · Dutch · English · Spanish · Farsi · Finnish · French · German · Greek · Hausa · Hindi · Hungarian · Indonesian · Italian · Japanese · Korean · Māori · Malay · Nepali · Norwegian · Polish · Portuguese · Romanian · Russian · Sinhalese · Somali · Albanian · Swedish · Swahili · Tamil · Thai · Tagalog · Turkish · Ukrainian · Urdu · Vietnamese · Chinese (Simplified) · Chinese (Traditional)
+
+**Missing your language?** [Open an issue](https://github.com/islam-xyz/shahada/issues/new?template=translation_fix.yml) or submit a pull request.
+
+## Contributing
+
+We welcome contributions from everyone — Muslims and non-Muslims, developers and non-developers.
+
+**Ways you can help:**
+- 🌍 **Fix a translation** — Spot a wrong word? Let us know or fix it directly.
+- 🐛 **Report a bug** — Something broken on your device? Tell us.
+- ♿ **Improve accessibility** — Help us reach people with disabilities.
+- 📝 **Improve content** — Suggest better wording or additional information.
+
+Please read our **[Contributing Guide](CONTRIBUTING.md)** before submitting changes.
+
+All contributors must follow our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
+
+## Privacy
+
+Shahada.org collects **zero personal data**:
+
+- No cookies
+- No tracking pixels
+- No analytics
+- No IP logging
+- The global counter is anonymous — it only increments a number
+- Your personal Shahada date is stored locally on your device and never leaves it
+
+## License
+
+This project is licensed under **[CC BY-NC-ND 4.0](LICENSE)** (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International).
+
+You are free to **view** and **contribute to** this project. You may **not** copy, redistribute, or create derivative works from this project without explicit written permission.
+
+See the [LICENSE](LICENSE) file for full details.
+
+## Security
+
+If you discover a security vulnerability, please report it responsibly. See our **[Security Policy](SECURITY.md)**.
+
+---
+
+<p align="center">
+  <em>"Whoever guides someone to goodness will have a reward like the one who did it."</em><br>
+  — Prophet Muhammad ﷺ (Sahih Muslim)
+</p>
+
+<p align="center">
+  A project by <a href="https://islam.xyz">Islam XYZ</a>
+</p>

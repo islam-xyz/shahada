@@ -1,0 +1,46 @@
+name: Translation Issue
+description: Report a wrong or missing translation
+title: "[Translation]: "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us improve translations. Accurate translations help people understand Islam correctly.
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Which language has the issue?
+      placeholder: "e.g., French, Arabic, Spanish"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: Is this on the main Shahada page, the Ghusl page, or the Salah page?
+      placeholder: "e.g., Shahada (index.html), Ghusl (ghusl.html), Salah (salah.html)"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text (wrong)
+      description: Copy the incorrect text from the website.
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct text
+      description: What should it say instead?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source (optional)
+      description: If this is Islamic content, please provide a reference (Quran verse, Hadith, scholarly source).
+    validations:
+      required: false

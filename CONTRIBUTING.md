@@ -48,7 +48,7 @@ Have an idea to make the site better? [Open a feature request](https://github.co
 
 ## What We Will NOT Accept
 
-- Changes that add tracking, analytics, or data collection
+- Changes that add additional tracking or data collection beyond what is already in place
 - Content that contradicts mainstream Islamic scholarship (Quran and Sunnah)
 - Additions that add complexity without clear benefit to new Muslims
 - Contributions that violate the project license

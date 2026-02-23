@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>The world's simplest guide to embracing Islam.</strong><br>
-  Available in 40+ languages · Zero tracking · Open to contributions
+  Available in 40+ languages · Privacy-respecting · Open to contributions
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Make it as simple as possible for anyone, anywhere in the world, to take their first step into Islam.
 
-Shahada.org is a free, open, multilingual resource that guides people through the Islamic declaration of faith — the Shahada. No accounts, no tracking, no barriers.
+Shahada.org is a free, open, multilingual resource that guides people through the Islamic declaration of faith — the Shahada. No accounts, no barriers.
 
 ## What This Website Does
 
@@ -30,7 +30,7 @@ Shahada.org is a free, open, multilingual resource that guides people through th
 - **40+ languages** — From Arabic to Zulu, with more being added by the community
 - **Global counter** — See how many people have taken the Shahada (completely anonymous)
 - **Next steps** — Guides on Ghusl (purification) and Salah (prayer) for new Muslims
-- **Zero tracking** — No cookies, no analytics, no data collection. Your faith is between you and Allah.
+- **Privacy-respecting** — Anonymous analytics for site improvement only. No personal data is collected or sold. Your faith is between you and Allah.
 
 ## Languages
 
@@ -56,14 +56,14 @@ All contributors must follow our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
 
 ## Privacy
 
-Shahada.org collects **zero personal data**:
+Shahada.org respects your privacy:
 
-- No cookies
-- No tracking pixels
-- No analytics
-- No IP logging
-- The global counter is anonymous — it only increments a number
-- Your personal Shahada date is stored locally on your device and never leaves it
+- **No accounts** — No sign-up, no login, no personal information required
+- **No personal data collected** — We do not collect names, emails, or any identifying information
+- **No data sold** — We will never sell or share data with third parties
+- **Anonymous analytics** — We use Google Analytics to understand which countries and languages need the most attention, so we can improve the site for everyone. This data is aggregated and anonymous.
+- **Anonymous counter** — The global Shahada counter only increments a number. No IP addresses or user information is logged.
+- **Local storage only** — Your personal Shahada date is saved on your device and never leaves it
 
 ## License
 

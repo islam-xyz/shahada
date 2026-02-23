@@ -7,8 +7,9 @@
  * 3. Global anonymous counter (API-based)
  * 4. Personal Shahada date (localStorage)
  * 
- * Privacy: The counter is completely anonymous — only increments a number.
- * Google Analytics is used for basic traffic and conversion insights.
+ * Privacy: No personal data is collected or sold.
+ * - Google Analytics is used for anonymous traffic and conversion insights.
+ * - The counter is completely anonymous — only increments a number.
  */
 
 (function() {

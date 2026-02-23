@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- English (Default) -->
+  <url>
+    <loc>https://shahada.org/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/"/>
+    <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/"/>
+    <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/"/>
+    <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/"/>
+    <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Dutch -->
+  <url>
+    <loc>https://shahada.org/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- French -->
+  <url>
+    <loc>https://shahada.org/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- German -->
+  <url>
+    <loc>https://shahada.org/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Spanish -->
+  <url>
+    <loc>https://shahada.org/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Italian -->
+  <url>
+    <loc>https://shahada.org/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Portuguese -->
+  <url>
+    <loc>https://shahada.org/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Romanian -->
+  <url>
+    <loc>https://shahada.org/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Russian -->
+  <url>
+    <loc>https://shahada.org/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Ukrainian -->
+  <url>
+    <loc>https://shahada.org/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Polish -->
+  <url>
+    <loc>https://shahada.org/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Greek -->
+  <url>
+    <loc>https://shahada.org/el/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Japanese -->
+  <url>
+    <loc>https://shahada.org/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Korean -->
+  <url>
+    <loc>https://shahada.org/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Simplified Chinese -->
+  <url>
+    <loc>https://shahada.org/zh-CN/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Traditional Chinese -->
+  <url>
+    <loc>https://shahada.org/zh-TW/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Hindi -->
+  <url>
+    <loc>https://shahada.org/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Tamil -->
+  <url>
+    <loc>https://shahada.org/ta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Nepali -->
+  <url>
+    <loc>https://shahada.org/ne/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Sinhala -->
+  <url>
+    <loc>https://shahada.org/si/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Thai -->
+  <url>
+    <loc>https://shahada.org/th/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Vietnamese -->
+  <url>
+    <loc>https://shahada.org/vi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Tagalog -->
+  <url>
+    <loc>https://shahada.org/tl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Amharic -->
+  <url>
+    <loc>https://shahada.org/am/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Afrikaans -->
+  <url>
+    <loc>https://shahada.org/af/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Swahili -->
+  <url>
+    <loc>https://shahada.org/sw/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Māori -->
+  <url>
+    <loc>https://shahada.org/mi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Arabic -->
+  <url>
+    <loc>https://shahada.org/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Turkish -->
+  <url>
+    <loc>https://shahada.org/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Indonesian -->
+  <url>
+    <loc>https://shahada.org/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Urdu -->
+  <url>
+    <loc>https://shahada.org/ur/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Farsi/Persian -->
+  <url>
+    <loc>https://shahada.org/fa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Bengali -->
+  <url>
+    <loc>https://shahada.org/bn/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Malay -->
+  <url>
+    <loc>https://shahada.org/ms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Hungarian -->
+  <url>
+    <loc>https://shahada.org/hu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Czech -->
+  <url>
+    <loc>https://shahada.org/cs/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Swedish -->
+  <url>
+    <loc>https://shahada.org/sv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Danish -->
+  <url>
+    <loc>https://shahada.org/da/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Norwegian -->
+  <url>
+    <loc>https://shahada.org/no/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Finnish -->
+  <url>
+    <loc>https://shahada.org/fi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Bosnian -->
+  <url>
+    <loc>https://shahada.org/bs/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Albanian -->
+  <url>
+    <loc>https://shahada.org/sq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Hausa -->
+  <url>
+    <loc>https://shahada.org/ha/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- Somali -->
+  <url>
+    <loc>https://shahada.org/so/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/"/>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- ═══ Ghusl Pages ═══ -->
+
+  <url>
+    <loc>https://shahada.org/en/ghusl.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/af/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/am/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ar/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/bn/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/bs/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/cs/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/da/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/de/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/el/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/es/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fa/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fi/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fr/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ha/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/hi/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/hu/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/id/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/it/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ja/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ko/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/mi/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ms/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ne/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/nl/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/no/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/pl/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/pt/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ro/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ru/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/si/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/so/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sq/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sv/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sw/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ta/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/th/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/tl/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/tr/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/uk/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ur/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/vi/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/zh-CN/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/zh-TW/ghusl.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- ═══ Salah Pages ═══ -->
+
+  <url>
+    <loc>https://shahada.org/en/salah.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/af/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/am/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ar/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/bn/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/bs/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/cs/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/da/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/de/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/el/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/es/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fa/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fi/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/fr/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ha/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/hi/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/hu/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/id/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/it/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ja/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ko/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/mi/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ms/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ne/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/nl/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/no/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/pl/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/pt/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ro/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ru/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/si/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/so/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sq/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sv/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/sw/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ta/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/th/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/tl/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/tr/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/uk/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/ur/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/vi/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/zh-CN/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://shahada.org/zh-TW/salah.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
+

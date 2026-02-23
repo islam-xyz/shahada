@@ -1,0 +1,9 @@
+# Shahada.org Robots.txt
+# Purpose: Help people convert to Islam — open to all crawlers.
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://shahada.org/sitemap.xml
+

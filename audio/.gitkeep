@@ -1,0 +1,26 @@
+# Audio Files Placeholder
+
+This folder should contain:
+- shahada.mp3 — The full Shahada audio (clear, slow recitation)
+- shahada.ogg — OGG fallback for browser compatibility
+
+## Audio Requirements:
+1. Clear male voice, slow pace
+2. ~10 seconds total duration
+3. Each word clearly separated for timestamp-based playback
+
+## Word Timestamps (update in index.html if different):
+| Word | Arabic | Start | End |
+|------|--------|-------|-----|
+| 0 | أَشْهَدُ | 0.0s | 1.2s |
+| 1 | أَنْ | 1.2s | 1.8s |
+| 2 | لَا | 1.8s | 2.4s |
+| 3 | إِلَٰهَ | 2.4s | 3.2s |
+| 4 | إِلَّا | 3.2s | 4.0s |
+| 5 | ٱللَّٰهُ | 4.0s | 5.0s |
+| 6 | وَأَشْهَدُ | 5.0s | 6.2s |
+| 7 | أَنَّ | 6.2s | 6.8s |
+| 8 | مُحَمَّدًا | 6.8s | 8.0s |
+| 9 | رَسُولُ | 8.0s | 9.0s |
+| 10 | ٱللَّٰهِ | 9.0s | 10.0s |
+

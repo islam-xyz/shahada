@@ -113,34 +113,42 @@
          */
         playWord(start, end, wordBtn) {
             if (!this.audio) return;
-            
-            // Stop any current playback
+
             this.stopWordPlayback();
-            
-            // Set up word playback
-            this.audio.currentTime = start;
+
             this.endTime = end;
             this.currentWord = wordBtn;
-            
-            // Highlight the word
             this.highlightWord(wordBtn, true);
-            
-            // Play
-            this.audio.play()
-                .then(() => {
-                    this.isPlaying = true;
-                    
-                    // Check for end time
-                    this.checkInterval = setInterval(() => {
-                        if (this.audio.currentTime >= this.endTime) {
-                            this.stopWordPlayback();
-                        }
-                    }, 50);
-                })
-                .catch(err => {
-                    console.error('Word playback failed:', err);
-                    this.highlightWord(wordBtn, false);
-                });
+
+            const doPlay = () => {
+                this.audio.play()
+                    .then(() => {
+                        this.isPlaying = true;
+                        this.checkInterval = setInterval(() => {
+                            if (this.audio.currentTime >= this.endTime) {
+                                this.stopWordPlayback();
+                            }
+                        }, 50);
+                    })
+                    .catch(err => {
+                        console.error('Word playback failed:', err);
+                        this.highlightWord(wordBtn, false);
+                    });
+            };
+
+            // Wait for the seek to finish before playing so the audio starts
+            // at exactly the right position (fixes timing drift on iOS Safari).
+            this.audio.addEventListener('seeked', doPlay, { once: true });
+            this.audio.currentTime = start;
+
+            // Fallback: if 'seeked' never fires (already at this position),
+            // play directly after a short grace period.
+            setTimeout(() => {
+                if (this.currentWord === wordBtn && !this.isPlaying) {
+                    this.audio.removeEventListener('seeked', doPlay);
+                    doPlay();
+                }
+            }, 300);
         },
 
         /**

@@ -571,6 +571,12 @@ a:visited {
     50% { transform: translateX(-50%) translateY(-5px); }
 }
 
+/* Mobile bounce (no X offset when tooltip is left-anchored) */
+@keyframes tooltip-bounce-mobile {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+}
+
 /* Hide tooltip */
 .word-tooltip.hidden {
     display: none !important;
@@ -610,6 +616,7 @@ a:visited {
 .word-btn.transliteration {
     font-size: 1rem;
     font-style: italic;
+    white-space: nowrap; /* prevent mid-word line-breaks inside buttons */
 }
 
 /* English Translation */
@@ -958,6 +965,18 @@ a:visited {
         padding: 10px 12px;
     }
     
+    /* Tooltip — anchor to left edge instead of centering over leftmost button */
+    .word-tooltip {
+        left: 0.5rem !important;
+        transform: none !important;
+        animation-name: tooltip-bounce-mobile !important;
+    }
+
+    .word-tooltip::after {
+        left: 1.25rem !important;
+        transform: none !important;
+    }
+
     /* Footer - max() in base styles handles responsive margins automatically */
 }
 

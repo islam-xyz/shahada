@@ -2,6 +2,15 @@
 
 Jazāk Allāhu Khayran (May Allah reward you with goodness) for wanting to help. Every contribution — no matter how small — helps someone, somewhere, take their first step into Islam.
 
+## Where to Start
+
+New to contributing? We label small, clear tasks so you can find something to do right away:
+
+- **[Good first issues](https://github.com/islam-xyz/shahada/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)** — Small tasks (e.g. fix a typo, correct one translation) ideal for first-time contributors.
+- **[Help wanted](https://github.com/islam-xyz/shahada/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)** — Tasks where we’d love community help.
+
+If you’re not sure, just [open an issue](https://github.com/islam-xyz/shahada/issues/new) and ask. We’re happy to guide you.
+
 ## How You Can Help
 
 ### 1. Report a Problem (No coding required)
@@ -67,6 +76,10 @@ We will review your contribution and merge it if everything looks good. If we re
 ## Questions?
 
 If you are unsure about anything, [open an issue](https://github.com/islam-xyz/shahada/issues) and ask. We are here to help.
+
+---
+
+**Maintainers:** To attract more volunteers, label issues with `good first issue` or `help wanted` when appropriate. See [docs/GETTING-VOLUNTEERS.md](docs/GETTING-VOLUNTEERS.md) for a short playbook.
 
 ---
 

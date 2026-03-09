@@ -1,0 +1,8 @@
+# Issue template chooser shown when someone clicks "New issue"
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+blank_issues_enabled: true
+contact_links:
+  - name: Contribute to Shahada.org
+    url: https://shahada.org/en/contribute.html
+    about: See ways to help and where to start (good first issues, help wanted).

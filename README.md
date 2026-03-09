@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="https://shahada.org">shahada.org</a> · 
-  <a href="#contributing">Contribute</a> · 
+  <a href="https://shahada.org/en/contribute.html">Contribute</a> · 
+  <a href="https://github.com/islam-xyz/shahada/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">Good first issues</a> · 
   <a href="https://github.com/islam-xyz/shahada/issues">Report an Issue</a>
 </p>
 
@@ -43,6 +44,8 @@ Afrikaans · Amharic · Arabic · Bengali · Bosnian · Czech · Danish · Dutch
 ## Contributing
 
 We welcome contributions from everyone — Muslims and non-Muslims, developers and non-developers.
+
+**→ [Contribute on the website](https://shahada.org/en/contribute.html)** — See ways to help and where to start (good first issues, help wanted).
 
 **Ways you can help:**
 - 🌍 **Fix a translation** — Spot a wrong word? Let us know or fix it directly.

@@ -1,11 +1,11 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
-    <title>Shahada.org — The Declaration of Faith in Your Language</title>
+    <title>Shahada.org � The Declaration of Faith in Your Language</title>
     <meta name="description" content="Say the Shahada and become Muslim. Available in 40+ languages. Listen, repeat, and declare your faith with our simple, step-by-step guide.">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Shahada.org">
@@ -60,6 +60,8 @@
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="/public/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/public/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/public/favicon-16x16.png">
     <link rel="icon" type="image/svg+xml" href="/public/shahada-logo.svg">
 
     <!-- Noscript fallback: redirect to English -->
@@ -91,14 +93,14 @@
                 break;
             }
 
-            // Try base language (e.g., nl-BE → nl, fr-BE → fr, en-US → en)
+            // Try base language (e.g., nl-BE ? nl, fr-BE ? fr, en-US ? en)
             var base = lang.split('-')[0];
             if (supported.indexOf(base) !== -1) {
                 match = base;
                 break;
             }
 
-            // Special case: zh without region → zh-CN
+            // Special case: zh without region ? zh-CN
             if (base === 'zh') {
                 match = 'zh-CN';
                 break;
@@ -113,6 +115,6 @@
 <body>
     <!-- Fallback content for very slow connections / SEO crawlers -->
     <p>Redirecting to your language...</p>
-    <p><a href="/en/">English</a> · <a href="/ar/">العربية</a> · <a href="/fr/">Français</a> · <a href="/nl/">Nederlands</a> · <a href="/de/">Deutsch</a> · <a href="/es/">Español</a> · <a href="/tr/">Türkçe</a> · <a href="/id/">Bahasa Indonesia</a> · <a href="/ur/">اردو</a></p>
+    <p><a href="/en/">English</a> � <a href="/ar/">???????</a> � <a href="/fr/">Fran�ais</a> � <a href="/nl/">Nederlands</a> � <a href="/de/">Deutsch</a> � <a href="/es/">Espa�ol</a> � <a href="/tr/">T�rk�e</a> � <a href="/id/">Bahasa Indonesia</a> � <a href="/ur/">????</a></p>
 </body>
 </html>

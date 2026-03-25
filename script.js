@@ -107,8 +107,9 @@
 
         /**
          * Play a specific word segment.
-         * Seek + play are synchronous — no intermediate promises or
-         * timeouts — so iOS Safari treats play() as gesture-initiated.
+         * Seek + play are synchronous to preserve the iOS gesture chain.
+         * A 120ms pre-roll absorbs iOS Safari's seek latency so the
+         * audible word start is never clipped.
          */
         playWord(start, end, wordBtn) {
             if (!this.audio) return;
@@ -120,7 +121,7 @@
             this.currentWord = wordBtn;
             this.highlightWord(wordBtn, true);
 
-            this.audio.currentTime = start;
+            this.audio.currentTime = Math.max(0, start - 0.12);
             this.audio.play().then(() => {
                 if (this._playId !== id) return;
                 this.isPlaying = true;

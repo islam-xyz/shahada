@@ -65,6 +65,7 @@
         currentWord: null,
         endTime: null,
         checkInterval: null,
+        _playId: 0,
 
         /**
          * Initialize audio player
@@ -75,15 +76,30 @@
                 return false;
             }
 
-            // Handle audio events
             this.audio.addEventListener('ended', () => this.onEnded());
             this.audio.addEventListener('pause', () => this.onPause());
             this.audio.addEventListener('error', (e) => this.onError(e));
             
-            // Preload audio
             this.audio.load();
             
             return true;
+        },
+
+        /**
+         * Ensure audio data is loaded enough for playback.
+         * iOS Safari ignores preload="auto" — the first user gesture must
+         * trigger a real play() to kick the network fetch, then we can seek.
+         */
+        _ensureLoaded() {
+            if (this.audio.readyState >= 2) return Promise.resolve();
+            return new Promise((resolve) => {
+                const onReady = () => {
+                    this.audio.removeEventListener('canplay', onReady);
+                    resolve();
+                };
+                this.audio.addEventListener('canplay', onReady);
+                this.audio.load();
+            });
         },
 
         /**
@@ -93,68 +109,79 @@
             if (!this.audio) return;
             
             this.stopWordPlayback();
-            this.audio.currentTime = 0;
-            this.audio.play()
-                .then(() => {
-                    this.isPlaying = true;
-                    this.updatePlayButton(true);
-                })
-                .catch(err => {
-                    console.error('Audio playback failed:', err);
-                    this.showAudioError();
-                });
+            
+            const id = ++this._playId;
+            this._ensureLoaded().then(() => {
+                if (this._playId !== id) return;
+                this.audio.currentTime = 0;
+                return this.audio.play();
+            }).then(() => {
+                if (this._playId !== id) return;
+                this.isPlaying = true;
+                this.updatePlayButton(true);
+            }).catch(err => {
+                if (err && err.name === 'AbortError') return;
+                console.error('Audio playback failed:', err);
+                this.showAudioError();
+            });
         },
 
         /**
          * Play a specific word segment
-         * @param {number} start - Start time in seconds
-         * @param {number} end - End time in seconds
-         * @param {HTMLElement} wordBtn - The word button element
          */
         playWord(start, end, wordBtn) {
             if (!this.audio) return;
 
             this.stopWordPlayback();
 
+            const id = ++this._playId;
             this.endTime = end;
             this.currentWord = wordBtn;
             this.highlightWord(wordBtn, true);
 
-            const doPlay = () => {
-                this.audio.play()
-                    .then(() => {
-                        this.isPlaying = true;
-                        this.checkInterval = setInterval(() => {
-                            if (this.audio.currentTime >= this.endTime) {
-                                this.stopWordPlayback();
-                            }
-                        }, 50);
-                    })
-                    .catch(err => {
-                        console.error('Word playback failed:', err);
-                        this.highlightWord(wordBtn, false);
-                    });
-            };
+            this._ensureLoaded().then(() => {
+                if (this._playId !== id) return;
 
-            // Wait for the seek to finish before playing so the audio starts
-            // at exactly the right position (fixes timing drift on iOS Safari).
-            this.audio.addEventListener('seeked', doPlay, { once: true });
-            this.audio.currentTime = start;
+                return new Promise((resolve) => {
+                    const onSeeked = () => {
+                        this.audio.removeEventListener('seeked', onSeeked);
+                        clearTimeout(fallback);
+                        resolve();
+                    };
+                    this.audio.addEventListener('seeked', onSeeked);
+                    this.audio.currentTime = start;
 
-            // Fallback: if 'seeked' never fires (already at this position),
-            // play directly after a short grace period.
-            setTimeout(() => {
-                if (this.currentWord === wordBtn && !this.isPlaying) {
-                    this.audio.removeEventListener('seeked', doPlay);
-                    doPlay();
+                    const fallback = setTimeout(() => {
+                        this.audio.removeEventListener('seeked', onSeeked);
+                        resolve();
+                    }, 200);
+                });
+            }).then(() => {
+                if (this._playId !== id) return;
+                return this.audio.play();
+            }).then(() => {
+                if (this._playId !== id) return;
+                this.isPlaying = true;
+                this.checkInterval = setInterval(() => {
+                    if (this.audio.currentTime >= this.endTime) {
+                        this.stopWordPlayback();
+                    }
+                }, 50);
+            }).catch(err => {
+                if (err && err.name === 'AbortError') return;
+                console.error('Word playback failed:', err);
+                if (this.currentWord === wordBtn) {
+                    this.highlightWord(wordBtn, false);
                 }
-            }, 300);
+            });
         },
 
         /**
          * Stop word playback
          */
         stopWordPlayback() {
+            ++this._playId;
+
             if (this.checkInterval) {
                 clearInterval(this.checkInterval);
                 this.checkInterval = null;
@@ -169,6 +196,7 @@
                 this.audio.pause();
             }
             
+            this.isPlaying = false;
             this.endTime = null;
         },
 

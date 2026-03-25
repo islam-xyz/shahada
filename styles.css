@@ -63,6 +63,7 @@ html {
     font-size: 14px; /* Wikipedia uses 14px base */
     -webkit-text-size-adjust: 100%;
     scroll-behavior: smooth;
+    overflow-x: hidden; /* Prevent 100vw from including scrollbar width — required for calc(-50vw + 50%) footer trick */
 }
 
 body {
@@ -833,7 +834,9 @@ a:visited {
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
     padding-top: var(--space-lg);
-    padding-bottom: var(--space-lg);
+    padding-bottom: max(var(--space-lg), env(safe-area-inset-bottom));
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
     color: var(--color-text-muted);
     font-size: 12px;
     background-color: #f5f5f7;

@@ -6740,12 +6740,2250 @@
     <changefreq>monthly</changefreq>
   </url>
 
-  <!-- ═══ Special Pages ═══ -->
+  <!-- ═══ Contribute Pages ═══ -->
+
+  <url>
+    <loc>https://shahada.org/af/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/am/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ar/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/bn/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/bs/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/cs/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/da/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/de/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/el/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
 
   <url>
     <loc>https://shahada.org/en/contribute.html</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/es/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/fa/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/fi/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/fr/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ha/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/hi/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/hu/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/id/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/it/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ja/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ko/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/mi/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ms/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ne/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/nl/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/no/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/pl/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/pt/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ro/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ru/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/si/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/so/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/sq/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/sv/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/sw/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ta/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/th/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/tl/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/tr/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/uk/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/ur/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/vi/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/zh-CN/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
+  </url>
+
+  <url>
+    <loc>https://shahada.org/zh-TW/contribute.html</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+      <xhtml:link rel="alternate" hreflang="af" href="https://shahada.org/af/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="am" href="https://shahada.org/am/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ar" href="https://shahada.org/ar/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bn" href="https://shahada.org/bn/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="bs" href="https://shahada.org/bs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="cs" href="https://shahada.org/cs/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="da" href="https://shahada.org/da/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="de" href="https://shahada.org/de/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="el" href="https://shahada.org/el/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://shahada.org/es/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fa" href="https://shahada.org/fa/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fi" href="https://shahada.org/fi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="fr" href="https://shahada.org/fr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ha" href="https://shahada.org/ha/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hi" href="https://shahada.org/hi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="hu" href="https://shahada.org/hu/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="id" href="https://shahada.org/id/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="it" href="https://shahada.org/it/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ja" href="https://shahada.org/ja/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ko" href="https://shahada.org/ko/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="mi" href="https://shahada.org/mi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ms" href="https://shahada.org/ms/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ne" href="https://shahada.org/ne/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="nl" href="https://shahada.org/nl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="no" href="https://shahada.org/no/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pl" href="https://shahada.org/pl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://shahada.org/pt/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ro" href="https://shahada.org/ro/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://shahada.org/ru/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="si" href="https://shahada.org/si/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="so" href="https://shahada.org/so/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sq" href="https://shahada.org/sq/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sv" href="https://shahada.org/sv/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="sw" href="https://shahada.org/sw/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ta" href="https://shahada.org/ta/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="th" href="https://shahada.org/th/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tl" href="https://shahada.org/tl/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="tr" href="https://shahada.org/tr/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="uk" href="https://shahada.org/uk/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="ur" href="https://shahada.org/ur/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="vi" href="https://shahada.org/vi/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shahada.org/zh-CN/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="zh-TW" href="https://shahada.org/zh-TW/contribute.html"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
   </url>
 
 </urlset>

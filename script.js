@@ -67,9 +67,6 @@
         checkInterval: null,
         _playId: 0,
 
-        /**
-         * Initialize audio player
-         */
         init() {
             if (!this.audio) {
                 console.warn('Audio element not found. Audio features disabled.');
@@ -86,24 +83,9 @@
         },
 
         /**
-         * Ensure audio data is loaded enough for playback.
-         * iOS Safari ignores preload="auto" — the first user gesture must
-         * trigger a real play() to kick the network fetch, then we can seek.
-         */
-        _ensureLoaded() {
-            if (this.audio.readyState >= 2) return Promise.resolve();
-            return new Promise((resolve) => {
-                const onReady = () => {
-                    this.audio.removeEventListener('canplay', onReady);
-                    resolve();
-                };
-                this.audio.addEventListener('canplay', onReady);
-                this.audio.load();
-            });
-        },
-
-        /**
-         * Play full Shahada
+         * Play full Shahada.
+         * currentTime + play() are called synchronously so iOS Safari
+         * keeps them inside the user-gesture allowance.
          */
         playFull() {
             if (!this.audio) return;
@@ -111,11 +93,8 @@
             this.stopWordPlayback();
             
             const id = ++this._playId;
-            this._ensureLoaded().then(() => {
-                if (this._playId !== id) return;
-                this.audio.currentTime = 0;
-                return this.audio.play();
-            }).then(() => {
+            this.audio.currentTime = 0;
+            this.audio.play().then(() => {
                 if (this._playId !== id) return;
                 this.isPlaying = true;
                 this.updatePlayButton(true);
@@ -127,7 +106,9 @@
         },
 
         /**
-         * Play a specific word segment
+         * Play a specific word segment.
+         * Seek + play are synchronous — no intermediate promises or
+         * timeouts — so iOS Safari treats play() as gesture-initiated.
          */
         playWord(start, end, wordBtn) {
             if (!this.audio) return;
@@ -139,27 +120,8 @@
             this.currentWord = wordBtn;
             this.highlightWord(wordBtn, true);
 
-            this._ensureLoaded().then(() => {
-                if (this._playId !== id) return;
-
-                return new Promise((resolve) => {
-                    const onSeeked = () => {
-                        this.audio.removeEventListener('seeked', onSeeked);
-                        clearTimeout(fallback);
-                        resolve();
-                    };
-                    this.audio.addEventListener('seeked', onSeeked);
-                    this.audio.currentTime = start;
-
-                    const fallback = setTimeout(() => {
-                        this.audio.removeEventListener('seeked', onSeeked);
-                        resolve();
-                    }, 200);
-                });
-            }).then(() => {
-                if (this._playId !== id) return;
-                return this.audio.play();
-            }).then(() => {
+            this.audio.currentTime = start;
+            this.audio.play().then(() => {
                 if (this._playId !== id) return;
                 this.isPlaying = true;
                 this.checkInterval = setInterval(() => {
@@ -192,7 +154,7 @@
                 this.currentWord = null;
             }
             
-            if (this.isPlaying && this.endTime !== null) {
+            if (this.audio && !this.audio.paused) {
                 this.audio.pause();
             }
             

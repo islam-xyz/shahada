@@ -60,161 +60,125 @@
     // ============================================
     
     const AudioPlayer = {
-        _el: elements.audio,
-        _ctx: null,
-        _buffer: null,
-        _source: null,
-        _bufferLoading: false,
-        _playId: 0,
+        audio: elements.audio,
         isPlaying: false,
         currentWord: null,
         endTime: null,
         checkInterval: null,
+        _playId: 0,
 
         init() {
-            if (!this._el) {
+            if (!this.audio) {
                 console.warn('Audio element not found. Audio features disabled.');
                 return false;
             }
-            this._el.addEventListener('ended', () => this.onEnded());
-            this._el.addEventListener('pause', () => this.onPause());
-            this._el.addEventListener('error', (e) => this.onError(e));
-            this._el.load();
+            this.audio.addEventListener('ended', () => {
+                this.audio.volume = 1;
+                this.onEnded();
+            });
+            this.audio.addEventListener('error', (e) => this.onError(e));
+            this.audio.load();
             return true;
         },
 
         /**
-         * Create AudioContext on first user gesture and begin
-         * decoding the audio file into a buffer for Web Audio playback.
-         */
-        _bootCtx() {
-            if (this._ctx) {
-                if (this._ctx.state === 'suspended') this._ctx.resume();
-                return;
-            }
-            var C = window.AudioContext || window.webkitAudioContext;
-            if (!C) return;
-            this._ctx = new C();
-            this._loadBuffer();
-        },
-
-        _loadBuffer() {
-            if (this._bufferLoading || this._buffer || !this._ctx) return;
-            this._bufferLoading = true;
-            var src = this._el.querySelector('source[type="audio/mpeg"]');
-            var url = src ? src.src : '../audio/shahada.mp3';
-            fetch(url)
-                .then(function(r) { return r.arrayBuffer(); })
-                .then(function(buf) { return this._ctx.decodeAudioData(buf); }.bind(this))
-                .then(function(decoded) { this._buffer = decoded; }.bind(this))
-                .catch(function(err) {
-                    console.warn('Web Audio buffer load failed:', err);
-                    this._bufferLoading = false;
-                }.bind(this));
-        },
-
-        _stopSource() {
-            if (this._source) {
-                try { this._source.stop(); } catch(e) {}
-                try { this._source.disconnect(); } catch(e) {}
-                this._source = null;
-            }
-        },
-
-        _playSegment(offset, duration, onEnd) {
-            this._stopSource();
-            var s = this._ctx.createBufferSource();
-            s.buffer = this._buffer;
-            s.connect(this._ctx.destination);
-            if (duration != null) {
-                s.start(0, offset, duration);
-            } else {
-                s.start(0, offset);
-            }
-            s.onended = onEnd;
-            this._source = s;
-        },
-
-        /**
-         * Play full Shahada.
-         * First tap uses <audio> element (iOS gesture-loads it).
-         * Subsequent taps use Web Audio buffer for precise playback.
+         * Play full Shahada
          */
         playFull() {
-            if (!this._el) return;
+            if (!this.audio) return;
             this.stopWordPlayback();
-            this._bootCtx();
             var id = ++this._playId;
-
-            if (this._buffer) {
-                this._playSegment(0, null, function() {
-                    if (this._playId === id) this.onEnded();
-                }.bind(this));
+            this.audio.volume = 1;
+            this.audio.currentTime = 0;
+            this.audio.play().then(() => {
+                if (this._playId !== id) return;
                 this.isPlaying = true;
                 this.updatePlayButton(true);
-            } else {
-                this._el.currentTime = 0;
-                this._el.play().then(function() {
-                    if (this._playId !== id) return;
-                    this.isPlaying = true;
-                    this.updatePlayButton(true);
-                }.bind(this)).catch(function(err) {
-                    if (err && err.name === 'AbortError') return;
-                    console.error('Audio playback failed:', err);
-                    this.showAudioError();
-                }.bind(this));
-            }
+            }).catch(err => {
+                if (err && err.name === 'AbortError') return;
+                console.error('Audio playback failed:', err);
+                this.showAudioError();
+            });
         },
 
         /**
          * Play a word segment.
-         * Uses Web Audio API (BufferSourceNode) when the buffer is ready,
-         * giving sample-precise start with zero decoder-restart latency.
-         * Falls back to <audio> element on the very first tap while
-         * the buffer is still loading.
+         *
+         * iOS Safari clips ~100ms when restarting the hardware audio
+         * decoder after pause(). To avoid this, the element is NEVER
+         * paused between words — only muted (volume 0). Because the
+         * decoder stays active, seeking is instantaneous and the full
+         * word is heard every time.
+         *
+         * Three paths:
+         *  1. audio.paused → first play, call play() (gesture-allowed)
+         *  2. audio playing → just seek + unmute (no play() needed)
+         *  3. Web Audio buffer ready → use BufferSourceNode (ideal)
          */
         playWord(start, end, wordBtn) {
-            if (!this._el) return;
-            this.stopWordPlayback();
-            this._bootCtx();
+            if (!this.audio) return;
+
+            var prevId = this._playId;
             var id = ++this._playId;
+
+            if (this.checkInterval) {
+                clearInterval(this.checkInterval);
+                this.checkInterval = null;
+            }
+            if (this.currentWord) {
+                this.highlightWord(this.currentWord, false);
+            }
+
             this.endTime = end;
             this.currentWord = wordBtn;
             this.highlightWord(wordBtn, true);
 
-            if (this._buffer) {
-                this._playSegment(start, end - start, function() {
-                    if (this._playId === id) {
-                        this.highlightWord(wordBtn, false);
-                        this.currentWord = null;
-                        this.isPlaying = false;
-                        this.endTime = null;
-                    }
-                }.bind(this));
+            if (!this.audio.paused) {
+                this.audio.currentTime = start;
+                this.audio.volume = 1;
                 this.isPlaying = true;
+                this._watchEnd(id, end, wordBtn);
             } else {
-                this._el.currentTime = start;
-                this._el.play().then(function() {
+                this.audio.currentTime = start;
+                this.audio.volume = 1;
+                this.audio.play().then(() => {
                     if (this._playId !== id) return;
                     this.isPlaying = true;
-                    this.checkInterval = setInterval(function() {
-                        if (this._el.currentTime >= end) {
-                            this.stopWordPlayback();
-                        }
-                    }.bind(this), 50);
-                }.bind(this)).catch(function(err) {
+                    this._watchEnd(id, end, wordBtn);
+                }).catch(err => {
                     if (err && err.name === 'AbortError') return;
                     console.error('Word playback failed:', err);
                     if (this.currentWord === wordBtn) {
                         this.highlightWord(wordBtn, false);
                     }
-                }.bind(this));
+                });
             }
         },
 
+        _watchEnd(id, end, wordBtn) {
+            this.checkInterval = setInterval(() => {
+                if (this._playId !== id) {
+                    clearInterval(this.checkInterval);
+                    this.checkInterval = null;
+                    return;
+                }
+                if (this.audio.currentTime >= end) {
+                    clearInterval(this.checkInterval);
+                    this.checkInterval = null;
+                    this.audio.volume = 0;
+                    this.highlightWord(wordBtn, false);
+                    this.currentWord = null;
+                    this.isPlaying = false;
+                    this.endTime = null;
+                }
+            }, 30);
+        },
+
+        /**
+         * Stop word playback — fully pauses audio (used by playFull / stop)
+         */
         stopWordPlayback() {
             ++this._playId;
-            this._stopSource();
             if (this.checkInterval) {
                 clearInterval(this.checkInterval);
                 this.checkInterval = null;
@@ -223,18 +187,19 @@
                 this.highlightWord(this.currentWord, false);
                 this.currentWord = null;
             }
-            if (this._el && !this._el.paused) {
-                this._el.pause();
+            if (this.audio && !this.audio.paused) {
+                this.audio.pause();
             }
+            if (this.audio) this.audio.volume = 1;
             this.isPlaying = false;
             this.endTime = null;
         },
 
         stop() {
             this.stopWordPlayback();
-            if (this._el) {
-                this._el.pause();
-                this._el.currentTime = 0;
+            if (this.audio) {
+                this.audio.pause();
+                this.audio.currentTime = 0;
             }
             this.isPlaying = false;
             this.updatePlayButton(false);
@@ -260,18 +225,10 @@
 
         onEnded() {
             this.isPlaying = false;
-            this._source = null;
             this.updatePlayButton(false);
             if (this.currentWord) {
                 this.highlightWord(this.currentWord, false);
                 this.currentWord = null;
-            }
-        },
-
-        onPause() {
-            if (!this.endTime) {
-                this.isPlaying = false;
-                this.updatePlayButton(false);
             }
         },
 

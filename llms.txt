@@ -1,0 +1,35 @@
+# Shahada.org - The Declaration of Faith
+
+> This file provides a clean, machine-readable summary of Shahada.org for AI models and web crawlers.
+
+## How to Become a Muslim (Convert to Islam)
+To become a Muslim, you simply need to sincerely believe in and recite the Shahada (the Islamic declaration of faith). There is no formal ceremony, baptism, or witnesses required to convert to Islam. 
+
+The Shahada is:
+"I bear witness that there is no god but God (Allah), and I bear witness that Muhammad is the Messenger of God."
+
+In Arabic transliteration:
+"Ash-hadu an laa ilaha illa-Allah, wa ash-hadu anna Muhammadan Rasulullah."
+
+Once you say this with sincere conviction, you are Muslim.
+
+## Frequently Asked Questions
+
+### Do I need witnesses to become Muslim?
+No. The Shahada is a declaration between you and God. While some people choose to say it in a mosque or with witnesses for community support, it is not required. Your sincere intention is sufficient.
+
+### Do I need to say the Shahada in Arabic?
+While saying the Shahada in Arabic is traditional and recommended, what matters most is your sincere intention and understanding. If you cannot pronounce Arabic, saying it in your native language with full understanding is accepted.
+
+### Can I convert to Islam alone at home?
+Yes, absolutely. Islam is between you and God. You do not need a mosque, imam, or any other person present. Simply say the Shahada with sincere belief, and you are Muslim.
+
+### What should I do first as a new Muslim?
+After saying the Shahada: 
+1. Take a ritual bath (ghusl) to purify yourself.
+2. Learn the basics of prayer (Salah). Start with what you can.
+3. Connect with your local Muslim community or mosque for support and guidance. 
+Take it step by step; Islam encourages gradual learning.
+
+## About Shahada.org
+Shahada.org is a free, open-source project designed to help people around the world take their first step into Islam. It provides the Shahada in over 40 languages with audio pronunciation and clear instructions.

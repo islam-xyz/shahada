@@ -1127,6 +1127,18 @@ a:visited {
     margin-bottom: var(--space-md);
 }
 
+/* Summary box for AI Overviews */
+.summary-box {
+    background-color: var(--color-surface);
+    border-left: 4px solid var(--color-accent);
+    padding: var(--space-lg);
+    margin: var(--space-lg) 0;
+}
+
+.summary-box p {
+    margin-bottom: 0;
+}
+
 /* Hadith box */
 .hadith-box {
     background-color: var(--color-surface);

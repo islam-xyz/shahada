@@ -8986,4 +8986,14 @@
       <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/contribute.html"/>
   </url>
 
+  <!-- ═══ About (English only; x-default for global trust page) ═══ -->
+
+  <url>
+    <loc>https://shahada.org/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shahada.org/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shahada.org/en/about.html"/>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>
